@@ -1,0 +1,6 @@
+﻿  inet_aton_test.cpp
+d:\学习笔记和资料\慕课\计算机网络\doc\socketpra\tcp ip1\tcp ip1\inet_aton_test.cpp(24): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winsock2.h(1848): note: see declaration of 'inet_ntoa'
+d:\学习笔记和资料\慕课\计算机网络\doc\socketpra\tcp ip1\tcp ip1\inet_aton_test.cpp(27): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: see declaration of 'strcpy'
+  TCP IP1.vcxproj -> D:\学习笔记和资料\慕课\计算机网络\doc\SocketPra\TCP IP1\Debug\TCP IP1.exe

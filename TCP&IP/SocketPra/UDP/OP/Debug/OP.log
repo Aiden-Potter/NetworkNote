@@ -1,0 +1,12 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (OP.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  gethostbyname_win.cpp
+d:\学习笔记和资料\慕课\计算机网络\doc\socketpra\udp\op\gethostbyname_win.cpp(22): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winsock2.h(2218): note: see declaration of 'gethostbyname'
+d:\学习笔记和资料\慕课\计算机网络\doc\socketpra\udp\op\gethostbyname_win.cpp(37): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winsock2.h(1848): note: see declaration of 'inet_ntoa'
+  udp_server.cpp
+d:\学习笔记和资料\慕课\计算机网络\doc\socketpra\udp\op\udp_server.cpp(35): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+d:\学习笔记和资料\慕课\计算机网络\doc\socketpra\udp\op\udp_server.cpp(21): warning C4101: 'strLen': unreferenced local variable
+  Generating Code...
+  OP.vcxproj -> D:\学习笔记和资料\慕课\计算机网络\doc\SocketPra\UDP\Debug\UDP.exe
