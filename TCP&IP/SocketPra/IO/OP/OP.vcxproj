@@ -135,13 +135,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="file_server_win.c" />
-    <ClCompile Include="gethostbyname_win.cpp" />
     <ClCompile Include="udp_client.cpp" />
-    <ClCompile Include="udp_server.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="file.dat" />
+    <ClCompile Include="echo_selectserv.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

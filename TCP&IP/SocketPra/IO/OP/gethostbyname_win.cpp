@@ -4,7 +4,7 @@
 
 extern void ErrorHandling(const char * message);
 
-int main(int argc, char* argv[]) {
+int main222(int argc, char* argv[]) {
 	WSADATA wsaData;
 	int j;
 	hostent *host;

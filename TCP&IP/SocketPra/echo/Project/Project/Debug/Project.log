@@ -1,4 +1,1 @@
-﻿  echo_client.cpp
-d:\学习笔记和资料\慕课\计算机网络\doc\socketpra\echo\project\project\echo_client.cpp(32): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
-  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winsock2.h(1830): note: see declaration of 'inet_addr'
-  Project.vcxproj -> D:\学习笔记和资料\慕课\计算机网络\doc\SocketPra\echo\Project\Debug\Project.exe
+﻿  Project.vcxproj -> D:\GitHub\Repository\NetworkNote\TCP&IP\SocketPra\echo\Project\Debug\Project.exe

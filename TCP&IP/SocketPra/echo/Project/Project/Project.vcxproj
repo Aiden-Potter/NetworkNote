@@ -70,16 +70,16 @@
   </ImportGroup>
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
-    <IncludePath>D:\学习笔记和资料\慕课\计算机网络\doc\SocketPra\TCP IP1\TCP IP1;$(IncludePath)</IncludePath>
+    <IncludePath>D:\GitHub\Repository\NetworkNote\TCP&amp;IP\SocketResources;D:\学习笔记和资料\慕课\计算机网络\doc\SocketPra\TCP IP1\TCP IP1;$(IncludePath)</IncludePath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
-    <IncludePath>D:\学习笔记和资料\慕课\计算机网络\doc\SocketPra\TCP IP1\TCP IP1;$(IncludePath)</IncludePath>
+    <IncludePath>D:\GitHub\Repository\NetworkNote\TCP&amp;IP\SocketResources;D:\学习笔记和资料\慕课\计算机网络\doc\SocketPra\TCP IP1\TCP IP1;$(IncludePath)</IncludePath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-    <IncludePath>D:\学习笔记和资料\慕课\计算机网络\doc\SocketPra\TCP IP1\TCP IP1;$(IncludePath)</IncludePath>
+    <IncludePath>D:\GitHub\Repository\NetworkNote\TCP&amp;IP\SocketResources;D:\学习笔记和资料\慕课\计算机网络\doc\SocketPra\TCP IP1\TCP IP1;$(IncludePath)</IncludePath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
-    <IncludePath>D:\学习笔记和资料\慕课\计算机网络\doc\SocketPra\TCP IP1\TCP IP1;$(IncludePath)</IncludePath>
+    <IncludePath>D:\GitHub\Repository\NetworkNote\TCP&amp;IP\SocketResources;D:\学习笔记和资料\慕课\计算机网络\doc\SocketPra\TCP IP1\TCP IP1;$(IncludePath)</IncludePath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>

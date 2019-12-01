@@ -1,0 +1,12 @@
+﻿  echo_selectserv.cpp
+d:\github\repository\networknote\tcp&ip\socketpra\io\op\echo_selectserv.cpp(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\github\repository\networknote\tcp&ip\socketpra\io\op\echo_selectserv.cpp(61): warning C4018: '<': signed/unsigned mismatch
+d:\github\repository\networknote\tcp&ip\socketpra\io\op\echo_selectserv.cpp(69): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SOCKET'
+  d:\github\repository\networknote\tcp&ip\socketpra\io\op\echo_selectserv.cpp(69): note: consider using '%lld' in the format string
+  d:\github\repository\networknote\tcp&ip\socketpra\io\op\echo_selectserv.cpp(69): note: consider using '%Id' in the format string
+  d:\github\repository\networknote\tcp&ip\socketpra\io\op\echo_selectserv.cpp(69): note: consider using '%I64d' in the format string
+d:\github\repository\networknote\tcp&ip\socketpra\io\op\echo_selectserv.cpp(78): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SOCKET'
+  d:\github\repository\networknote\tcp&ip\socketpra\io\op\echo_selectserv.cpp(78): note: consider using '%lld' in the format string
+  d:\github\repository\networknote\tcp&ip\socketpra\io\op\echo_selectserv.cpp(78): note: consider using '%Id' in the format string
+  d:\github\repository\networknote\tcp&ip\socketpra\io\op\echo_selectserv.cpp(78): note: consider using '%I64d' in the format string
+  OP.vcxproj -> D:\GitHub\Repository\NetworkNote\TCP&IP\SocketPra\IO\x64\Debug\IO.exe

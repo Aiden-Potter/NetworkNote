@@ -18,19 +18,8 @@
     <ClCompile Include="udp_client.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="udp_server.cpp">
+    <ClCompile Include="echo_selectserv.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="file_server_win.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="gethostbyname_win.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="file.dat">
-      <Filter>Source Files</Filter>
-    </None>
   </ItemGroup>
 </Project>
