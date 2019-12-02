@@ -1,0 +1,4 @@
+﻿  client.cpp
+d:\github\repository\networknote\tcp&ip\socketpra\multibrodcast\multibrodcast\client.cpp(23): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\um\winsock2.h(1830): note: see declaration of 'inet_addr'
+  MultiBrodcast.vcxproj -> D:\GitHub\Repository\NetworkNote\TCP&IP\SocketPra\MultiBrodcast\Debug\MultiBrodcast.exe
